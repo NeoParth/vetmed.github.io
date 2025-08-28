@@ -1,1 +1,38 @@
+# Site settings
+title: Vorbereitungskurs Vetmed Uni
+email: kontakt@vetmedkurs.at
+description: "Optimale Vorbereitung für dein Veterinärmedizin-Studium an der Vetmed Uni."
+baseurl: "" # der Pfad, falls die Seite nicht im Root-Ordner gehostet wird (z.B. /meinprojekt)
+url: "https://username.github.io" # Ersetze username mit deinem GitHub-Nutzernamen
+
+# Social media / author info
+author:
+  name: Vetmed Kurs Team
+  twitter_username: vetmedkurs
+  github_username: vetmedkurs
+
+# Build settings
+theme: jekyll-theme-minimal
+
+# Markdown settings
+markdown: kramdown
+
+# Plugins (GitHub Pages unterstützt nur bestimmte Plugins)
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Exclude from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+
+# Include extra files
+include:
+  - _pages
+
+# Kramdown options (Markdown Parser)
+kramdown:
+  input: GFM
 
