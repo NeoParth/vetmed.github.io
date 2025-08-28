@@ -1,1 +1,1 @@
-# vetmed.github.io
+# Hugo's Vetmed Kurs
