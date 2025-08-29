@@ -3,7 +3,7 @@ title: Vorbereitungskurs Vetmed Uni
 email: kontakt@vetmedkurs.at
 description: "Optimale Vorbereitung für dein Veterinärmedizin-Studium an der Vetmed Uni."
 baseurl: "" # der Pfad, falls die Seite nicht im Root-Ordner gehostet wird (z.B. /meinprojekt)
-url: "https://username.github.io" # Ersetze username mit deinem GitHub-Nutzernamen
+url: "http://vetprep.me" # Replace with your actual custom domain
 
 # Social media / author info
 author:
